@@ -1,0 +1,2 @@
+# Computer_Implemented_Method_Primary_Secondary_Channels
+computer-implemented method for selecting between primary and secondary communication channels
