@@ -1,0 +1,96 @@
+{
+  "name": "Computer_Implemented_Method_Primary_Secondary_Channels",
+  "description": "computer-implemented method for selecting between primary and secondary communication channels",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 40,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "item",
+        "number": 100
+      },
+      {
+        "name": "block",
+        "number": 102
+      },
+      {
+        "name": "block",
+        "number": 104
+      },
+      {
+        "name": "block",
+        "number": 106
+      },
+      {
+        "name": "decision block",
+        "number": 108
+      },
+      {
+        "name": "block",
+        "number": 110
+      },
+      {
+        "name": "block",
+        "number": 112
+      }
+    ],
+    "terms": [
+      "bandwidth",
+      "channels",
+      "backup channels",
+      "backup channel",
+      "additional backup channels",
+      "highest priority backup channel",
+      "backup P2P communication channels",
+      "primary P2P communication channel",
+      "primary communication channel",
+      "secondary communication channels",
+      "primary and secondary communication channels",
+      "primary channel",
+      "secondary channel",
+      "cost",
+      "data",
+      "connection data",
+      "mobile devices",
+      "mobile device",
+      "particular mobile device",
+      "other devices",
+      "one embodiment",
+      "example",
+      "primary P2P channel fails",
+      "its link failure",
+      "figure",
+      "form",
+      "communication link",
+      "failed link",
+      "computer-implemented method",
+      "notification",
+      "periodic heartbeat packets",
+      "process",
+      "range",
+      "reliability",
+      "prioritization scheme",
+      "predefined prioritization scheme",
+      "certain communication channel types",
+      "other communication channel types",
+      "usage",
+      "variables"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Computer_Implemented_Method_Primary_Secondary_Channels"
+}

@@ -1,0 +1,631 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "item",
+        "position": {
+          "x": 603.2629165649414,
+          "y": 18.1875
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "d93968d8-7dfe-4f6d-9f1b-5db8114f1aac",
+        "z": 1,
+        "objectID": "4b09bf94-0ed6-b86a-b419-85f1e2aece55",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pill",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "done block",
+        "position": {
+          "x": 201,
+          "y": 36
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 26.675224700243977
+        },
+        "angle": 0,
+        "label": "<p>start</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "8a111b27-e737-4538-a790-fcb0856da3e3",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 188.97637939453125,
+          "fullString": "START",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "START",
+              "width": 34.358795166015625,
+              "x": 77.30879211425781,
+              "y": 0.0029481307983409977
+            }
+          ],
+          "textWidth": 34.358795166015625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "06dbdce3-5fd8-ee14-e29b-aef18918b0da",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 201,
+          "y": 85.67522470024397
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 47.590958606910604
+        },
+        "angle": 0,
+        "label": "<p>select primary p2p communication channel</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "393dcf79-6ec4-4313-831c-35224c9705c6",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 219.2126007080078,
+          "fullString": "SELECT PRIMARY P2P COMMUNICATION CHANNEL 102",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "SELECT PRIMARY P2P",
+              "width": 125.9913330078125,
+              "x": 46.610633850097656,
+              "y": -0.03920299682616957
+            },
+            {
+              "text": "COMMUNICATION CHANNEL 102",
+              "width": 196.9229736328125,
+              "x": 11.144813537597656,
+              "y": 20.960834503173828
+            }
+          ],
+          "textWidth": 196.9229736328125,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "cc217ebe-f4e7-9c97-965e-d7c10aea0afb",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "8a111b27-e737-4538-a790-fcb0856da3e3"
+        },
+        "target": {
+          "id": "393dcf79-6ec4-4313-831c-35224c9705c6"
+        },
+        "id": "c2b24087-d554-4a9a-beb8-a76db1dc990a",
+        "z": 4,
+        "objectID": "0fa4617d-76d7-67c0-437e-ded991a4ccc8"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 204,
+          "y": 188
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 68.62520643662022
+        },
+        "angle": 0,
+        "label": "<p>establish backup p2p communication channel(s)</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "89de1b74-a033-43c7-b1f2-83a4728acec5",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 219.2126007080078,
+          "fullString": "ESTABLISH BACKUP P2P COMMUNICATION CHANNEL(S) 104",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "ESTABLISH BACKUP P2P",
+              "width": 139.33941650390625,
+              "x": 39.93659210205078,
+              "y": -0.022097570800777788
+            },
+            {
+              "text": "COMMUNICATION CHANNEL(S)",
+              "width": 188.6954345703125,
+              "x": 15.258583068847656,
+              "y": 20.97793992919922
+            },
+            {
+              "text": "104",
+              "width": 22.386520385742188,
+              "x": 98.41304016113281,
+              "y": 41.977977429199214
+            }
+          ],
+          "textWidth": 188.6954345703125,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "4f5158d9-26e4-ddc7-605c-3512907b49c0",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "393dcf79-6ec4-4313-831c-35224c9705c6"
+        },
+        "target": {
+          "id": "89de1b74-a033-43c7-b1f2-83a4728acec5"
+        },
+        "id": "e97c6275-1880-49fb-91ff-1d4b9d9bc9c5",
+        "z": 6,
+        "objectID": "c6955fd4-1018-574a-d931-a19c41853abc"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 204,
+          "y": 306
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 68.62520608197408
+        },
+        "angle": 0,
+        "label": "<p>maintain backup p2p communication channel(s)</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "663f7841-4662-4f39-bacd-3d6650a4546f",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 219.2126007080078,
+          "fullString": "MAINTAIN BACKUP P2P COMMUNICATION CHANNEL(S) 106",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MAINTAIN BACKUP P2P",
+              "width": 137.11624145507812,
+              "x": 41.048179626464844,
+              "y": -0.022097570800777788
+            },
+            {
+              "text": "COMMUNICATION CHANNEL(S)",
+              "width": 188.6954345703125,
+              "x": 15.258583068847656,
+              "y": 20.97793992919922
+            },
+            {
+              "text": "106",
+              "width": 22.386520385742188,
+              "x": 98.41304016113281,
+              "y": 41.977977429199214
+            }
+          ],
+          "textWidth": 188.6954345703125,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "e48ca43d-e964-cbc1-17f7-012b79a02ee5",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "89de1b74-a033-43c7-b1f2-83a4728acec5"
+        },
+        "target": {
+          "id": "663f7841-4662-4f39-bacd-3d6650a4546f"
+        },
+        "id": "3ea131cb-f477-498f-8c95-249a9fb7fe6a",
+        "z": 8,
+        "objectID": "614659d9-1660-5d19-a631-3e5e81408cd4"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "diamond",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "decision block",
+        "position": {
+          "x": 204,
+          "y": 397.62520608197406
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 158.19765026079918
+        },
+        "angle": 0,
+        "label": "<p>primary P2P channel failure?</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "63810f7b-12b4-4434-a7c4-da20cf9f1a81",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 134.66241455078125,
+          "fullString": "PRIMARY P2P CHANNEL FAILURE? 108",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PRIMARY P2P",
+              "width": 79.9609375,
+              "x": 27.350738525390625,
+              "y": 0.05409528503418315
+            },
+            {
+              "text": "CHANNEL FAILURE?",
+              "width": 114.99397277832031,
+              "x": 9.834220886230469,
+              "y": 21.05413278503418
+            },
+            {
+              "text": "108",
+              "width": 22.386520385742188,
+              "x": 56.13794708251953,
+              "y": 42.054170285034175
+            }
+          ],
+          "textWidth": 114.99397277832031,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "90a489f3-7b72-5a29-9c1b-d06d33d4867e",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "663f7841-4662-4f39-bacd-3d6650a4546f"
+        },
+        "target": {
+          "id": "63810f7b-12b4-4434-a7c4-da20cf9f1a81"
+        },
+        "id": "c6880c93-53a2-45e6-a47f-130d169bd86f",
+        "z": 10,
+        "objectID": "c99ce669-b0c3-6abb-6e28-09ee0bbfa814"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 204,
+          "y": 578.8228563427733
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 68.62553189847206
+        },
+        "angle": 0,
+        "label": "<p>transition to highest priority backup communication channel</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "1e30a18e-ec5e-4e7c-8436-4343ca7ae8c4",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 219.2126007080078,
+          "fullString": "TRANSITION TO HIGHEST PRIORITY BACKUP COMMUNICATION CHANNEL 110",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "TRANSITION TO HIGHEST PRIORITY",
+              "width": 206.06163024902344,
+              "x": 6.5754852294921875,
+              "y": -0.021933538818355913
+            },
+            {
+              "text": "BACKUP COMMUNICATION",
+              "width": 160.0676727294922,
+              "x": 29.572463989257812,
+              "y": 20.978103961181642
+            },
+            {
+              "text": "CHANNEL 110",
+              "width": 84.00637817382812,
+              "x": 67.60311126708984,
+              "y": 41.978141461181636
+            }
+          ],
+          "textWidth": 206.06163024902344,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "644c044e-9582-d4ec-a2b7-64ba724a5335",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "63810f7b-12b4-4434-a7c4-da20cf9f1a81"
+        },
+        "target": {
+          "id": "1e30a18e-ec5e-4e7c-8436-4343ca7ae8c4"
+        },
+        "id": "65c5932e-cb95-4748-b991-8714953ea2f7",
+        "z": 12,
+        "objectID": "a7158564-9d90-1edd-9130-0fdb8f56c5fe"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 204,
+          "y": 670.4483882412453
+        },
+        "size": {
+          "width": 226.77165985107422,
+          "height": 47.591312986085335
+        },
+        "angle": 0,
+        "label": "<p>backup channel becomes primary channel</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "294314d8-13e8-47f8-bac4-797b0e226701",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 219.2126007080078,
+          "fullString": "BACKUP CHANNEL BECOMES PRIMARY CHANNEL 112",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "BACKUP CHANNEL BECOMES",
+              "width": 172.14927673339844,
+              "x": 23.531661987304688,
+              "y": -0.03902752075195082
+            },
+            {
+              "text": "PRIMARY CHANNEL 112",
+              "width": 141.19813537597656,
+              "x": 39.007232666015625,
+              "y": 20.961009979248047
+            }
+          ],
+          "textWidth": 172.14927673339844,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "53140be0-8810-ff53-1ce1-9e2b9c0118c6",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "1e30a18e-ec5e-4e7c-8436-4343ca7ae8c4"
+        },
+        "target": {
+          "id": "294314d8-13e8-47f8-bac4-797b0e226701"
+        },
+        "id": "77558e46-e977-430e-b75b-5ca5a17af2ef",
+        "z": 14,
+        "objectID": "87eadb91-4c31-982a-3ffb-fd2a24a0c549"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "294314d8-13e8-47f8-bac4-797b0e226701"
+        },
+        "target": {
+          "x": 319,
+          "y": 154
+        },
+        "id": "8fd34484-ef24-4a24-8399-bd3da329dd4f",
+        "embeds": "",
+        "z": 15,
+        "routing": "straight",
+        "objectID": "e1197164-74ad-838a-1fba-8423a3cbdd81",
+        "vertices": [
+          {
+            "x": 542,
+            "y": 697
+          },
+          {
+            "x": 541,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "63810f7b-12b4-4434-a7c4-da20cf9f1a81"
+        },
+        "target": {
+          "x": 316,
+          "y": 276
+        },
+        "id": "34e9a303-7aa3-43a1-8b92-463424c9bf26",
+        "embeds": "",
+        "z": 16,
+        "routing": "straight",
+        "objectID": "c8608d71-4347-4336-46ca-35df055918fa",
+        "vertices": [
+          {
+            "x": 139,
+            "y": 477
+          },
+          {
+            "x": 139,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 155,
+          "y": 445.20788408738093
+        },
+        "size": {
+          "width": 36,
+          "height": 24
+        },
+        "angle": 0,
+        "label": "<p>N</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "41c55158-3f3f-411d-8169-f1e15a562d0b",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 32.68571853637695,
+          "fullString": "N",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "N",
+              "width": 9.93133544921875,
+              "x": 11.377191543579102,
+              "y": 0.31487401885986444
+            }
+          ],
+          "textWidth": 9.93133544921875,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f9c8d6d2-7949-867b-8d5a-90d126461ed4"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 323,
+          "y": 548
+        },
+        "size": {
+          "width": 36,
+          "height": 24
+        },
+        "angle": 0,
+        "label": "<p>Y</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c96001f4-6333-936e-0c80-9b3a6c6985d7",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 32.853389739990234,
+          "fullString": "Y",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "Y",
+              "width": 6.2503662109375,
+              "x": 13.301511764526367,
+              "y": 0.4055198089599621
+            }
+          ],
+          "textWidth": 6.2503662109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "64cead13-27f5-66be-a510-c92b617beab6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="542" height="727.5" viewBox="139 36 542 727.5"><g><g transform="translate(201,36)"><g><g>
+<path data-relative-d="M{width - min(1cm,width*0.2)},0  H{min(1cm,width*0.2)}  C{min(1cm,width*0.2)/3},0  0,{height/6}  0,{height/2}  C0,{height - height/6}  {min(1cm,width*0.2)/3},{height}  {min(1cm,width*0.2)},{height}  H{width - min(1cm,width*0.2)}  C{width - (min(1cm,width*0.2)/3)},{height}  {width},{height - height/6}  {width},{height/2}  C{width},{height/6}  {width - (min(1cm,width*0.2)/3)},0  {width - min(1cm,width*0.2)},0  z" d="M189,0  H37.8  C12.6,0  0,4.4  0,13.3  C0,22.2  12.6,26.7  37.8,26.7  H189  C214.2,26.7  226.8,22.2  226.8,13.3  C226.8,4.4  214.2,0  189,0  z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{5mm},{1mm} V{height-0.5mm} H{width-5mm} V{1mm} z" d="M18.9,3.8 V24.8 H207.9 V3.8 z" fill="none"/>
+
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,13.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,13.3)"/><rect stroke-width="0" fill="none" width="189" height="21" transform="translate(18.9,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(18.9,3.8)" text-anchor="middle"><tspan x="94.5" y="16.8">START</tspan></text><path stroke="#000000" fill="none" transform="translate(18.9,3.8)" d="M 0 0"/></g><g transform="translate(201,85.7)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M226.8,0 H0 V47.6 H226.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V45.7 H223 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M226.8,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M226.8,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,23.8)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,23.8)"/><rect stroke-width="0" fill="none" width="219.2" height="41.9" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="109.6" y="6.3">SELECT PRIMARY P2P</tspan><tspan x="109.6" y="27.3">COMMUNICATION</tspan><tspan x="109.6" y="48.3">CHANNEL 102</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 142.5 50 170.5 50"/></g><g><path stroke="black" stroke-dasharray="none" d="M 314 63 314 78" fill="none"/><path fill="black" stroke="black" d="" transform="translate(314,63) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(310,86) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(314, 70.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(204,188)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M226.8,0 H0 V68.6 H226.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V66.7 H223 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M226.8,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M226.8,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,34.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,34.3)"/><rect stroke-width="0" fill="none" width="219.2" height="63" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="109.6" y="16.8">ESTABLISH BACKUP P2P</tspan><tspan x="109.6" y="37.8">COMMUNICATION</tspan><tspan x="109.6" y="58.8">CHANNEL(S) 104</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 153.9 61 181.9 61"/></g><g><path stroke="black" stroke-dasharray="none" d="M 317 133 317 180" fill="none"/><path fill="black" stroke="black" d="" transform="translate(317,133) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(313,188) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(317, 156.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(204,306)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M226.8,0 H0 V68.6 H226.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V66.7 H223 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M226.8,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M226.8,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,34.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,34.3)"/><rect stroke-width="0" fill="none" width="219.2" height="63" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="109.6" y="16.8">MAINTAIN BACKUP P2P</tspan><tspan x="109.6" y="37.8">COMMUNICATION</tspan><tspan x="109.6" y="58.8">CHANNEL(S) 106</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 153.9 61 181.9 61"/></g><g><path stroke="black" stroke-dasharray="none" d="M 317 257 317 298" fill="none"/><path fill="black" stroke="black" d="" transform="translate(317,257) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(313,306) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(317, 277.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(204,397.6)"><g><g>
+<path d="M113.4,0L0,79.1l113.4,79.1l113.4,-79.1L113.4,0L113.4,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="45.8" y="47.5" fill="none" width="134.8" height="63.2"/>
+<circle fill="none" cx="113.4" cy="0" r="0.1"/>
+<circle fill="none" cx="156.6" cy="30" r="0.1"/>
+<circle fill="none" cx="195" cy="56.9" r="0.1"/>
+<circle fill="none" cx="226.8" cy="79.1" r="0.1"/>
+<circle fill="none" cx="195" cy="101.3" r="0.1"/>
+<circle fill="none" cx="156.2" cy="128.3" r="0.1"/>
+<circle fill="none" cx="113.4" cy="158.2" r="0.1"/>
+<circle fill="none" cx="70.6" cy="128.3" r="0.1"/>
+<circle fill="none" cx="31.7" cy="101.2" r="0.1"/>
+<circle fill="none" cx="0" cy="79.1" r="0.1"/>
+<circle fill="none" cx="31.7" cy="56.9" r="0.1"/>
+<circle fill="none" cx="70.3" cy="30" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.7,79)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.7,79)"/><rect stroke-width="0" fill="none" width="134.8" height="63.2" transform="translate(45.8,47.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(45.8,47.5)" text-anchor="middle"><tspan x="67.4" y="16.9">PRIMARY P2P</tspan><tspan x="67.4" y="37.9">CHANNEL</tspan><tspan x="67.4" y="58.9">FAILURE? 108</tspan></text><path stroke="#000000" fill="none" transform="translate(45.8,47.5)" d="M 98.6 61 126.6 61"/></g><g><path stroke="black" stroke-dasharray="none" d="M 317 375 317 390" fill="none"/><path fill="black" stroke="black" d="" transform="translate(317,375) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(313,398) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(317, 382.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(204,578.8)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M226.8,0 H0 V68.6 H226.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V66.7 H223 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M226.8,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M226.8,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,68.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,51.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,17.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,34.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,34.3)"/><rect stroke-width="0" fill="none" width="219.2" height="63" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="109.6" y="-4.2">TRANSITION TO</tspan><tspan x="109.6" y="16.8">HIGHEST PRIORITY</tspan><tspan x="109.6" y="37.8">BACKUP</tspan><tspan x="109.6" y="58.8">COMMUNICATION</tspan><tspan x="109.6" y="79.8">CHANNEL 110</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 142.9 82 170.2 82"/></g><g><path stroke="black" stroke-dasharray="none" d="M 317 556 317 571" fill="none"/><path fill="black" stroke="black" d="" transform="translate(317,556) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(313,579) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(317, 563.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(204,670.4)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M226.8,0 H0 V47.6 H226.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V45.7 H223 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M113.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M170.1,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M226.8,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M226.8,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M226.8,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M170.1,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M113.4,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M56.7,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M56.7,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(226.8,23.8)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(226.8,23.8)"/><rect stroke-width="0" fill="none" width="219.2" height="41.9" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="109.6" y="6.3">BACKUP CHANNEL</tspan><tspan x="109.6" y="27.3">BECOMES PRIMARY</tspan><tspan x="109.6" y="48.3">CHANNEL 112</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 142.9 50 170.2 50"/></g><g><path stroke="black" stroke-dasharray="none" d="M 317 647 317 662" fill="none"/><path fill="black" stroke="black" d="" transform="translate(317,647) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(313,670) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(317, 654.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 431 697 542 697 541 158 327 158" fill="none"/><path fill="black" stroke="black" d="" transform="translate(431,697) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(319,154) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(541.4, 376)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 204 477 139 477 139 280 308 280" fill="none"/><path fill="black" stroke="black" d="" transform="translate(204,477) scale(1,1) rotate(-180)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(316,284) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(139, 326.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(155,445.2)"><g><g>
+<path d="M36,0H0v24h36V0L36,0z" fill="none" stroke="none" stroke-dasharray="none"/>
+<rect x="1.6" y="1.1" width="32.9" height="21.8" fill="none"/>
+<circle fill="none" cx="18" cy="0" r="0.1"/>
+<circle fill="none" cx="26.9" cy="0" r="0.1"/>
+<circle fill="none" cx="36" cy="6.1" r="0.1"/>
+<circle fill="none" cx="36" cy="12" r="0.1"/>
+<circle fill="none" cx="36" cy="17.9" r="0.1"/>
+<circle fill="none" cx="26.9" cy="24" r="0.1"/>
+<circle fill="none" cx="18" cy="24" r="0.1"/>
+<circle fill="none" cx="9.1" cy="24" r="0.1"/>
+<circle fill="none" cx="0" cy="17.9" r="0.1"/>
+<circle fill="none" cx="0" cy="12" r="0.1"/>
+<circle fill="none" cx="0" cy="6.1" r="0.1"/>
+<circle fill="none" cx="9.1" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(35.9,11.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(35.9,11.9)"/><rect stroke-width="0" fill="none" width="32.9" height="21.8" transform="translate(1.6,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.6,1.1)" text-anchor="middle"><tspan x="16.4" y="17.2">N</tspan></text><path stroke="#000000" fill="none" transform="translate(1.6,1.1)" d="M 0 0"/></g><g transform="translate(323,548)"><g><g>
+<path d="M36,0H0v24h36V0L36,0z" fill="none" stroke="none" stroke-dasharray="none"/>
+<rect x="1.6" y="1.1" width="32.9" height="21.8" fill="none"/>
+<circle fill="none" cx="18" cy="0" r="0.1"/>
+<circle fill="none" cx="26.9" cy="0" r="0.1"/>
+<circle fill="none" cx="36" cy="6.1" r="0.1"/>
+<circle fill="none" cx="36" cy="12" r="0.1"/>
+<circle fill="none" cx="36" cy="17.9" r="0.1"/>
+<circle fill="none" cx="26.9" cy="24" r="0.1"/>
+<circle fill="none" cx="18" cy="24" r="0.1"/>
+<circle fill="none" cx="9.1" cy="24" r="0.1"/>
+<circle fill="none" cx="0" cy="17.9" r="0.1"/>
+<circle fill="none" cx="0" cy="12" r="0.1"/>
+<circle fill="none" cx="0" cy="6.1" r="0.1"/>
+<circle fill="none" cx="9.1" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(35.9,11.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(35.9,11.9)"/><rect stroke-width="0" fill="none" width="32.9" height="21.8" transform="translate(1.6,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.6,1.1)" text-anchor="middle"><tspan x="16.4" y="17.2">Y</tspan></text><path stroke="#000000" fill="none" transform="translate(1.6,1.1)" d="M 0 0"/></g></g><defs/></svg>
